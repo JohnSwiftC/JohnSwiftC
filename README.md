@@ -28,11 +28,8 @@ I love all things programming, but I'm specifically interested in offensive secu
 <div align="center">
 
 <a href="https://github.com/JohnSwiftC/rustdllproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=rustdllproxy&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
-
 <a href="https://github.com/JohnSwiftC/localblock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=localblock&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
-
 <a href="https://github.com/JohnSwiftC/gus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=gus&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
-
 <a href="https://github.com/JohnSwiftC/lazyhttp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=lazyhttp&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
 
 </div>
