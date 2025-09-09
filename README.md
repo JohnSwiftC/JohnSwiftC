@@ -4,7 +4,9 @@
 
 <div align="left">
   
-I love all things programming! Currently, my main project is with Rust, Next.js, and TypeScript.
+I love all things programming, and have for a long time! I enjoy building projects from the ground up, and usually carry them out over several weeks depending on their scale and whatever features I let creep in.
+
+Currently a freshman at Purdue University studying Computer Science, looking to get involved in as much as I can.
 
 ###  **Things I Like to Do**
 
