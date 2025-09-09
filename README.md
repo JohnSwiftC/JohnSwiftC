@@ -4,7 +4,7 @@
 
 <div align="left">
   
-I love all things programming, but I'm specifically interested in offensive security and systems development.
+I love all things programming! Currently, my main project is with Rust, Next.js, and TypeScript.
 
 ###  **Things I Like to Do**
 
@@ -45,5 +45,4 @@ I love all things programming, but I'm specifically interested in offensive secu
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-swift-a0bbb026b/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnswift@live.com)
 
-  <sub>I really need LinkedIn connections, ok?</sub>
 </div>
