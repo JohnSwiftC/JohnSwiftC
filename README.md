@@ -19,26 +19,6 @@ Currently a freshman at Purdue University studying Computer Science, looking to 
 
 ---
 
-## 🔧 **Favorite Projects**
-
-<div align="center">
-
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSwiftC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/JohnSwiftC/rustdllproxy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=rustdllproxy&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
-<a href="https://github.com/JohnSwiftC/localblock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=localblock&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
-<a href="https://github.com/JohnSwiftC/gus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=gus&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
-<a href="https://github.com/JohnSwiftC/lazyhttp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnSwiftC&repo=lazyhttp&theme=tokyonight&hide_border=true&bg_color=0D1117"></a>
-
-</div>
-
-
----
-
 
 ## 🤝 **Let's Connect**
 
