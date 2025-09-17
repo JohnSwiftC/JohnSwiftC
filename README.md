@@ -15,6 +15,12 @@ Currently a freshman at Purdue University studying Computer Science, looking to 
 - **Build Projects** > I have a pretty large scope in what I've made, from blockchain to reverse engineering tools. I build to learn!
 - **Contribute to OSS** > You should too. Check out NuShell!
 
+<div align="center">
+
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSwiftC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</div>
+
 </div>
 
 ---
