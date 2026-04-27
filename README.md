@@ -12,5 +12,5 @@ Coming soon. Whenever the SAO approves us. 😳
 Feel free to check out some of my public projects on my GitHub.
 I build a lot of systems and security projects, but if you want to see something funny, look at payos 📞.
 
-LinkedIn - linkedin.com/john-m-swift
+LinkedIn - linkedin.com/in/john-m-swift/
 ```
