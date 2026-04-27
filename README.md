@@ -1,16 +1,18 @@
 ```
-Hi, I’m John. I’m currently studying CS at Purdue University, with an eventual focus in either security or systems.
+Hi, I’m John.
 
-I play CTF’s with Purdue b01lers,
-develop backend services with Boilerexams,
-and build fun projects in my free time.
+I build systems and security tooling, mostly in Rust and Go.
+
+I play CTFs with Purdue b01lers, contribute to projects like Nushell,
+develop backend services for Boilerexams,
+and build weird projects in my free time. (payos 📞)
 
 Also the head developer for the new
 Commodities and Markets Analytics Club.
-Coming soon. Whenever the SAO approves us. 😳
+Coming soon, pending SAO approval. 😳
 
-Feel free to check out some of my public projects on my GitHub.
-I build a lot of systems and security projects, but if you want to see something funny, look at payos 📞.
+Feel free to check out some of my public projects below.
 
 LinkedIn - linkedin.com/in/john-m-swift/
+Email    - johnswift@live.com
 ```
