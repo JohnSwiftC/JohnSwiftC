@@ -1,8 +1,6 @@
 ```
 Hi, I’m John.
 
-I build systems and security tooling, mostly in Rust and Go.
-
 I play CTFs with Purdue b01lers, contribute to projects like Nushell,
 develop backend services for Boilerexams,
 and build weird projects in my free time. (payos 📞)
