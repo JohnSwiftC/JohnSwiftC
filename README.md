@@ -1,8 +1,9 @@
 ```
 Hi!
 
-I play CTFs with Purdue b01lers, contribute to projects like Nushell,
-develop backend services for Boilerexams,
+I develop backend services for Boilerexams,
+play CTFs with Purdue b01lers,
+contribute to projects like Nushell,
 and build weird projects in my free time. (payos 📞)
 
 Also the head developer for the new
