@@ -14,3 +14,5 @@ Coming soon, pending SAO approval. 😳
 LinkedIn - linkedin.com/in/john-m-swift/
 Email    - johnswift@live.com
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnSwiftC)](https://github.com/anuraghazra/github-readme-stats)
