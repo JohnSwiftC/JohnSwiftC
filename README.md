@@ -15,4 +15,4 @@ LinkedIn - linkedin.com/in/john-m-swift/
 Email    - johnswift@live.com
 ```
 
-[![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnSwiftC)](https://github.com/anuraghazra/github-readme-stats)
+[Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnSwiftC)](https://github.com/anuraghazra/github-readme-stats)
