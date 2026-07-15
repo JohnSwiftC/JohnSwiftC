@@ -3,8 +3,7 @@ Hi!
 
 I develop backend services for Boilerexams,
 play CTFs with Purdue b01lers,
-contribute to projects like Nushell,
-and build weird projects in my free time. (payos 📞)
+contribute to projects like Nushell.
 
 Also the head developer for the new
 Commodities and Markets Analytics Club.
