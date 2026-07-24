@@ -11,5 +11,6 @@ just waiting for the SAO to approve us 😳
 
 LinkedIn - linkedin.com/in/john-m-swift/
 Email    - johnswift@live.com
+           swift30@purdue.edu
 ```
 
