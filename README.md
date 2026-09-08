@@ -2,7 +2,7 @@
 Hi!
 
 I develop backend services for Boilerexams,
-play CTFs with Purdue b01lers,
+play CTFs with b01lers,
 wrote a compiler that targets brainf*ck
 for Purdue Hackers. I do a lot of other
 things too. Some of them are even useful!
